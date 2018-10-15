@@ -49,7 +49,7 @@ table {
 
 /*====== ^Reset^ ======*/
 
-
+/*
 body {
   width: auto; height: auto;
 }
@@ -61,4 +61,20 @@ body {
   bottom: 0;
   margin: 0 auto;
   position: relative;
+}
+
+*/
+
+body{
+  width: 100%; height: 100%;
+}
+
+.centered{
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(83, 187, 83);
+}
+
+.same-line{
+  display: inline;
 }
